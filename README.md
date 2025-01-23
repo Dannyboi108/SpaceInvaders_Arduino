@@ -34,7 +34,7 @@ I have attatched the wiring diagram, as that would be easier for ya :).
   
 - Buzzer pin (negative side): Pin 8
 - Buzzer pin (positive side): +5v on Breadboard
--(I have attatched an image to help)
+- (I have attatched an image to help)
 
 # Gameplay
 - Objective: Shoot down enemies moving across the screen.
